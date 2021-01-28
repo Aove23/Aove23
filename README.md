@@ -1,4 +1,4 @@
-### Bienvenido 👋
+### Bienvenidos 👋
 ---
 
 <!--
